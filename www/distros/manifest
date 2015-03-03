@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kafka",
+    "vendor": "APACHE",
+    "version": "0.8.2",
+    "packages": [
+      {
+        "roles": [
+          "zookeeper",
+          "kafka_node"
+        ],
+        "package_repos": [
+          "https://hadoop-mgmt.or1.omniture.com/yum/bigtop.repo"
+        ]
+      }
+    ]
+  }
+]

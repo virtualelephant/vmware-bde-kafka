@@ -1,0 +1,9 @@
+[
+  {
+    "vendor" : "Apache",
+    "version" : "^(\\d)+(\\.\\w+)*",
+    "type" : "Apache Kafka Cluster",
+    "appManager" : "Default",
+    "path" : "Ironfan/kafka/spec.json"
+  }
+]
